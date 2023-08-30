@@ -8,7 +8,7 @@
 
 - **iOS**: 8+ years (Swift & Objective-C)
 - **Android**: 7+ years (Java & Kotlin)
-- **Flutter**: Expert in cross-platform development
+- **Flutter**: Expert in cross-platform development, 3+ years
 - **React Native**: 5+ years
 - **AWS**: Cloud architecture, S3, Lambda, DynamoDB
 - **Firebase**: Real-time databases, cloud messaging, analytics
