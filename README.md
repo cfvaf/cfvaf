@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm a Senior Mobile App Developer
 
-🔥 10+ years of experience in crafting top-tier mobile solutions.
+🔥 8+ years of experience in crafting top-tier mobile solutions.
 
 ---
 
@@ -8,8 +8,8 @@
 
 - **iOS**: 8+ years (Swift & Objective-C)
 - **Android**: 7+ years (Java & Kotlin)
-- **Flutter**: Expert in cross-platform development, 3+ years
-- **React Native**: 5+ years
+- **Flutter**: Expert in cross-platform development, 4+ years
+- **React Native**: 3+ years
 - **AWS**: Cloud architecture, S3, Lambda, DynamoDB
 - **Firebase**: Real-time databases, cloud messaging, analytics
 - **APIs**: RESTful services integration
